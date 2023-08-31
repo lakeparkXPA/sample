@@ -1,3 +1,2 @@
 # sample
-
-<img width="899" alt="image" src="https://github.com/lakeparkXPA/sample/assets/47446855/ae303835-9ac0-414b-b82a-7a352ff24a55">
+<img width="899" alt="스크린샷 2023-09-01 오전 2 16 13" src="https://github.com/lakeparkXPA/sample/assets/47446855/18c60016-4c63-49d3-a179-31733bf41b1c">
